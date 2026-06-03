@@ -1,4 +1,3 @@
-# Device_Risk_Complaince_Dashboard
 # Device Risk & Compliance Dashboard
 
 A Python-based dashboard for monitoring device compliance and risk in enterprise environments. Built with Streamlit for web-based visualisation and integrated with OpenAI for AI-powered remediation recommendations.
